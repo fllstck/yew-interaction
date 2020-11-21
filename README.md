@@ -1,17 +1,17 @@
 # Yew Interaction
 
-An example web application build with the Yew framework.
+An example web application build with [the Yew framework](https://yew.rs/docs/en/).
 
 It illustrates interactions.
 
 ## Counter Component
 
-The counter component displays a number that can be incremented and decremented 
+This component displays a number that can be incremented and decremented 
 with clicks on two buttons.
 
 ## Text Component
 
-The text component is a text-area that updates its own content with upper-case
+This component is a text-area that updates its own content with upper-case
 text on input.
 
 ## Prerequisites
