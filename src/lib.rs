@@ -6,8 +6,6 @@ use counter::Counter;
 mod text;
 use text::Text;
 
-mod helpers;
-
 use wasm_bindgen::prelude::*;
 use yew::prelude::*;
 
